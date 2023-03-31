@@ -2,7 +2,7 @@
 
 ## Live URL
 
-[river935.github.io/js-challenge/](https://river935.github.io/js-challenge/)
+[river935.github.io/4-in-a-row/](https://river935.github.io/4-in-a-row/)
 
 ## Todo list
 
